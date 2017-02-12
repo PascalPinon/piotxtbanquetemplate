@@ -1,0 +1,7 @@
+categorie,text,label
+emprunt.immobilier,avez vous une solution de financement pour ma maison,1.0
+emprunt.conso,Quel est votre taux pour un prêt conso,2.0
+emprunt.immobilier,Je vais acheter une maison quel est le taux chez vous,1.0
+emprunt.conso,Je vais acheter un canapé vous pouvez me preter de l argent pour cela,2.0
+emprunt.immobilier,Je vais acheter un bien immobilier le taux chez vous,1.0
+emprunt.conso,Je vais acheter un frigo vous pouvez me preter de l argent pour cela,2.0
